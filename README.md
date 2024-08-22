@@ -38,6 +38,13 @@
     ./todo
     ```
 
+## Ảnh minh họa
+![image](https://github.com/user-attachments/assets/bfff4ca4-34f2-4ac7-a499-3d59ba79a6fb)
+
+![image](https://github.com/user-attachments/assets/79651546-0ad9-4f57-8301-3767a2697000)
+
+
+
 ## Đóng góp
 
 Do ứng dụng còn một số lỗi không mong muốn nên nếu bạn muốn đóng góp vào dự án, hãy fork repository này, tạo một nhánh mới, thực hiện các thay đổi và gửi pull request. Cảm ơn bạn !
