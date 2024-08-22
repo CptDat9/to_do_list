@@ -23,6 +23,11 @@
 4. **Cập nhật công việc**: Chọn `4` để thêm công việc mới vào cuối danh sách.
 5. **Thoát**: Chọn `5` để thoát khỏi ứng dụng.
 
+## Yêu Cầu
+
+- Trình biên dịch C (ví dụ: GCC)
+- Giao diện dòng lệnh (CLI) trên hệ thống hỗ trợ C (ví dụ: Windows, Linux, macOS)
+  
 ## Cài đặt và chạy chương trình
 
 1. Clone repository này về máy:
