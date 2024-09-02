@@ -80,7 +80,6 @@ Hàm `main` chạy một vòng lặp vô hạn, liên tục hiển thị menu đ
 
 - Thực hiện lưu/đọc dữ liệu từ tệp tin để lưu trữ danh sách To-Do và tải lại khi khởi động chương trình.
 - Thêm xử lý lỗi cho việc cấp phát bộ nhớ thất bại.
-- Thay thế `gets()` bằng `fgets()` để nhập liệu an toàn hơn.
   
 ## Đóng góp
 
