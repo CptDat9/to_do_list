@@ -62,14 +62,14 @@ void createToDo() {
                 start = t;
                 printf("\nAdd it...\n");
                 fflush(stdin);
-                gets(t->data);
+                fgets(t->data, 100, stdin);
                 t->count = 1; 
                 start->link = NULL;
             } else {
                 temp = (todo*)malloc(sizeof(todo));
                 printf("\nAdd it...\n");
                 fflush(stdin);
-                gets(temp->data);
+                fgets(temp->data, 100, stdin);
                 temp->link = NULL;
                 t->link = temp;
                 t = t->link;
@@ -119,7 +119,7 @@ void updateToDo() {
         printf("\nADD it..\n");
         temp = (todo *)malloc(sizeof(todo));
         fflush(stdin);
-        gets(temp->data);
+        fgets(temp->data, 100, stdin);
         temp->link = NULL;
         t = start;
         while (t->link != NULL) {
